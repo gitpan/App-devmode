@@ -42,7 +42,7 @@
    "provides" : {
       "App::devmode" : {
          "file" : "lib/App/devmode.pm",
-         "version" : "v0.0.5"
+         "version" : "v0.0.6"
       }
    },
    "release_status" : "stable",
@@ -57,5 +57,5 @@
          "url" : "git://github.com/ivanwills/App-devmode.git"
       }
    },
-   "version" : "v0.0.5"
+   "version" : "v0.0.6"
 }
