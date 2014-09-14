@@ -33,7 +33,7 @@
             "Template::Provider::FromDATA" : "0",
             "Term::Title" : "0",
             "Test::NoWarnings" : "0",
-            "YAML::Syck" : "0",
+            "YAML" : "0",
             "perl" : "5.008",
             "version" : "0"
          }
@@ -42,7 +42,7 @@
    "provides" : {
       "App::devmode" : {
          "file" : "lib/App/devmode.pm",
-         "version" : "v0.0.6"
+         "version" : "v0.0.7"
       }
    },
    "release_status" : "stable",
@@ -57,5 +57,5 @@
          "url" : "git://github.com/ivanwills/App-devmode.git"
       }
    },
-   "version" : "v0.0.6"
+   "version" : "v0.0.7"
 }
